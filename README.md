@@ -28,16 +28,37 @@
 ### 🚀 Skills & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MikroTik-EA2127?style=for-the-badge&logoColor=white&logo=mikrotik"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/MikroTik-EA2127?style=for-the-badge&logoColor=white&logo=mikrotik" alt="MikroTik"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
+
 
 ---
 
+### 🤖 AI Tools
+
+<p> <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Github%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/> </p>
+
+---
+
+### 🧪 Network Simulation Tools
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+  <img src="https://img.shields.io/badge/GNS3-2D79C7?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3"/> 
+  <img src="https://img.shields.io/badge/EVE--NG-000000?style=for-the-badge&logo=linux&logoColor=white" alt="EVE-NG"/>
+</p>
+
+ ----
+
+ 
 ### 📈 GitHub Stats
 
 <p align="center">
