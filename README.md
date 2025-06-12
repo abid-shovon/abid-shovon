@@ -98,4 +98,4 @@
 
 ---
 
-<p align="center"><em>“Never stop learning </em><br>🚀 Let's connect and grow together!</p>
+<p align="center"><em>"Never stop learning" </em><br>🚀 Let's connect and grow together!</p>
