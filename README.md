@@ -9,7 +9,7 @@
 
 ---
 
-### 🧑‍💻 About My Skills:
+### 🧑‍💻 Core Technical Skills
 
 -  🎓 **CCNA Certified (Cisco Certified Network Associate)**  
     ▸ TCP/IP, Subnetting (CIDR, VLSM)  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Tools
+### 🚀 Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -68,10 +68,23 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abid-shovon&show_icons=true&theme=tokyonight&hide_border=true" alt="Shovon's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-shovon&layout=compact&theme=github_dark" alt="Top Languages"/>
   <br>
   <img src="https://img.shields.io/badge/Cisco-90%25-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/MikroTik-60%25-EA2127?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+</p>
+
+---
+
+
+### ⚡ GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abid-shovon&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -87,3 +100,6 @@
   </a>
 </p>
 
+---
+
+<p align="center"><em>“Never stop learning </em><br>🚀 Let's connect and grow together!</p>
