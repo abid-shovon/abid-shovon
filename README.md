@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abid Hasan Shovon</h1>
 <h3 align="center">Network Engineer with Automation enthusiast from Bangladesh</h3>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=abid-shovon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About My Skills:
 
 -  🎓 **CCNA Certified (Cisco Certified Network Associate)**  
     ▸ TCP/IP, Subnetting (CIDR, VLSM)  
@@ -25,7 +31,7 @@
 
 ---
 
-### 🚀 Skills & Tools
+### 🚀 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
