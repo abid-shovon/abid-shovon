@@ -24,10 +24,6 @@
     ▸ Port Forwarding, Load Balancing, Scripting  
     ▸ Failover, Bandwidth Management, OSPF Routing  
     ▸ Backup & Recovery
-    
-- 🐧 Passionate about **Linux systems**, **network configuration**, and **automation with Python**
-- 💡 Constantly learning and building tools to make system tasks smarter and easier
-- 📬 Reach me at: **abidshovon945@gmail.com**
 
 ---
 
